@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="Yellow1" style='background-color:yellow' onclick="yellow()">Yellow</button>
+    <button id ="red1" style='background-color:red' onclick="red()">Red</button>
+    <button id="Green1" style='background-color:green' onclick="green()">Green</button>
+    <button id ="Blue1" style='background-color:blue' onclick="blue()">Blue</button>
+    <button id="Pink1" style='background-color:pink' onclick="pink()">Pink</button>
+    <button onclick="color('')">Reset</button>
+    <script src="function.js">
+        
+    </script>
+    
+</body>
+</html>

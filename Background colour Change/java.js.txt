@@ -1,0 +1,29 @@
+function yellow(){
+    document.querySelector("body").style.backgroundColor='yellow'
+    Yellow1.style.backgroundColor='yellow'
+
+}
+function red(){
+    document.querySelector("body").style.backgroundColor='red'
+    red1.style.backgroundColor='red'
+
+}
+function green(){
+    document.querySelector("body").style.backgroundColor='green'
+    Green1.style.backgroundColor='green'
+
+}
+function blue(){
+
+    document.querySelector("body").style.backgroundColor='blue'
+    Blue1.style.backgroundColor='blue'
+
+}
+function pink(){
+    document.querySelector("body").style.backgroundColor='pink'
+    Pink1.style.backgroundColor='pink'
+
+}
+function color(clr){
+    document.body.style.backgroundColor=clr;
+}
